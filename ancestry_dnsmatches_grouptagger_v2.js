@@ -1,5 +1,5 @@
 // MODIFY THE FOLLOWING LINES AS NEEDED
-var groupTitle = "To be removed";
+var groupTitle = "?";
 var groupRow = 2;
 var logTaggedMatches = true;
 var logSkippedMatches = false;
